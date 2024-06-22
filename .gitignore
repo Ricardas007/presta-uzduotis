@@ -1,0 +1,13 @@
+# IntelliJ IDEA specific files
+.idea/
+
+# Build output directories
+target/
+bin/
+
+# macOS specific files
+.DS_Store
+
+# Logs
+*.log
+
