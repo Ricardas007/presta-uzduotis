@@ -1,0 +1,6 @@
+description,keyword,expectedResult
+"Valid keyword search","t-shirt","List of products related to t-shirt"
+"Invalid keyword search","xyz123","No products found"
+"Special characters search","!@#$%^&*","No products found"
+"Partial keyword search","paint","List of products related to paint"
+"Empty search prompt","","Prompt to enter search term"
